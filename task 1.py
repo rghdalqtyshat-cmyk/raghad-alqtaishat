@@ -17,13 +17,14 @@ if grade>80:
 elif grade>65:
     print("d")
 else:
- print("على الله")
+ print("good")
 
 #10-30          50-60
 x=int(input("enter the value of x:"))
 if x in range(10,30):
-   print("يا سلام ")
+   print("very good ")
 elif x in range(50,60):
- print("فالح")
+ print("hello")
 else:
-   print("namastee")
+   print("مرحبا ")
+
